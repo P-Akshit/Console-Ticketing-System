@@ -14,7 +14,7 @@ A Python-based command-line interface (CLI) for managing bus and train ticket bo
 4. Run the script: `python main.py`
 
 ## Technologies Used
-* Python 3.x
+* Python 3.12
 * Standard Libraries (`random`)
 
 ## Future Improvements
